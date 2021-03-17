@@ -1,0 +1,9 @@
+[package]
+name = "swarm-rs"
+version = "0.1.0"
+authors = ["vii <vii@gamecraft.tech>"]
+edition = "2018"
+
+[dependencies]
+macroquad = "0.2.9"
+nom = "6.1.2"
