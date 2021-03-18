@@ -6,6 +6,3 @@ edition = "2018"
 
 [dependencies]
 macroquad = "0.2.9"
-nom = "6.1.2"
-enum-utils = "0.1.2"
-enum-display-derive = "0.1.1"
